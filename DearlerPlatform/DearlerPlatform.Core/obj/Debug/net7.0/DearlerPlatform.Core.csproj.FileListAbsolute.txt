@@ -1,0 +1,17 @@
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net7.0\DearlerPlatform.Core.deps.json
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net7.0\DearlerPlatform.Core.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net7.0\DearlerPlatform.Core.pdb
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.csproj.AssemblyReference.cache
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.AssemblyInfoInputs.cache
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.AssemblyInfo.cs
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.csproj.CoreCompileInputs.cache
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\refint\DearlerPlatform.Core.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.pdb
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\ref\DearlerPlatform.Core.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net7.0\DearlerPlatform.Core.runtimeconfig.json
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net7.0\DearlerPlatform.Domain.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net7.0\DearlerPlatform.Domain.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.csproj.CopyComplete
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net7.0\DearlerPlatform.Core.genruntimeconfig.cache

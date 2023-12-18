@@ -1,0 +1,17 @@
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Extensions.deps.json
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Extensions.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Extensions.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.csproj.AssemblyReference.cache
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.AssemblyInfoInputs.cache
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.AssemblyInfo.cs
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.csproj.CoreCompileInputs.cache
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\refint\DearlerPlatform.Extensions.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\ref\DearlerPlatform.Extensions.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Core.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Domain.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Core.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\bin\Debug\net7.0\DearlerPlatform.Domain.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Extensions\obj\Debug\net7.0\DearlerPlatform.Extensions.csproj.CopyComplete

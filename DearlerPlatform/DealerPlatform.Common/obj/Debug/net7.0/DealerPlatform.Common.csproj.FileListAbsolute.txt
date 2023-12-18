@@ -1,0 +1,12 @@
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\bin\Debug\net7.0\DealerPlatform.Common.deps.json
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\bin\Debug\net7.0\DealerPlatform.Common.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\bin\Debug\net7.0\DealerPlatform.Common.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.csproj.AssemblyReference.cache
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.AssemblyInfoInputs.cache
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.AssemblyInfo.cs
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.csproj.CoreCompileInputs.cache
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\refint\DealerPlatform.Common.dll
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\DealerPlatform.Common.pdb
+E:\VsCod代码文件\Dealer_platform\DearlerPlatform\DealerPlatform.Common\obj\Debug\net7.0\ref\DealerPlatform.Common.dll

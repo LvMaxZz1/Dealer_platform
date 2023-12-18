@@ -1,0 +1,3 @@
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net7.0\publish\DearlerPlatform.Domain.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net7.0\publish\DearlerPlatform.Domain.deps.json
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net7.0\publish\DearlerPlatform.Domain.pdb

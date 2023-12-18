@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.服务层.csproj": {}
+  },
+  "projects": {
+    "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DealerPlatform.Common\\DealerPlatform.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DealerPlatform.Common\\DealerPlatform.Common.csproj",
+        "projectName": "DealerPlatform.Common",
+        "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DealerPlatform.Common\\DealerPlatform.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DealerPlatform.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\VS应用共享组件 工具 SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+        "projectName": "DearlerPlatform.Core",
+        "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\VS应用共享组件 工具 SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+        "projectName": "DearlerPlatform.Domain",
+        "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\VS应用共享组件 工具 SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.服务层.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.服务层.csproj",
+        "projectName": "DearlerPlatform.Service.服务层",
+        "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.服务层.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\VS应用共享组件 工具 SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DealerPlatform.Common\\DealerPlatform.Common.csproj": {
+                "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DealerPlatform.Common\\DealerPlatform.Common.csproj"
+              },
+              "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+                "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
+              },
+              "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "E:\\VsCod代码文件\\Dealer_platform\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

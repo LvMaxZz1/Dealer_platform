@@ -1,0 +1,12 @@
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net7.0\DearlerPlatform.Domain.deps.json
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net7.0\DearlerPlatform.Domain.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\bin\Debug\net7.0\DearlerPlatform.Domain.pdb
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.csproj.AssemblyReference.cache
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.AssemblyInfoInputs.cache
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.AssemblyInfo.cs
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.csproj.CoreCompileInputs.cache
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\refint\DearlerPlatform.Domain.dll
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\DearlerPlatform.Domain.pdb
+e:\VsCod代码文件\Dealer_platform\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net7.0\ref\DearlerPlatform.Domain.dll

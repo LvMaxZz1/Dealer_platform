@@ -1,0 +1,12 @@
+name: TeamCityDemoProject
+jobs:
+  Job1:
+    name: DemoJob
+    steps:
+      - type: script
+        working-directory: same as checkout directory
+        script-content: git -clean -f
+    runs-on: Linux-Medium
+    files-publication:
+      - ''
+    enable-dependency-cache: true
